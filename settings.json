@@ -8,7 +8,7 @@
   "server": {
     "ip": "Softcraft-drwx.aternos.me",
     "port": 63244,
-    "version": false
+    "version": 1.21
   },
   "position": {
     "enabled": true,
